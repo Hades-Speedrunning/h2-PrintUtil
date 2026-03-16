@@ -6,8 +6,8 @@ Current functionality:
 
 |Function|Purpose|
 |---|---|
-|createOverlayLine| Display a line of text on the screen|
-|destroyScreenAnchor| Remove a line of text from the screen|
+|OverlayLine.display| Display a line of text on the screen|
+|OverlayLine.destroy| Remove a line of text from the screen|
 
 
 This library uses the same patterns that Hades 2 uses internally, but abstracts some of the formatting and lifecycle management.
